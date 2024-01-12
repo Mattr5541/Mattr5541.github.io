@@ -1,0 +1,27 @@
+---
+title: "Overview"
+---
+
+## About Me
+
+Hello! I am Matthew Roland, a passionate researcher, teacher, and aspiring data scientist. Allow me to highlight some information about myself and my professional journey:
+
+I received my Bachelor's degree in Psychology from [St. John's University](https://www.stjohns.edu/) and decided to devote myself to social science and biological research. In particular, I have worked extensively with research regarding the effects of discrimination and trauma on social cognitive faculties. 
+
+I then decided to enhance my understanding of neuroscience and biology by pursuing and obtaining a Master's degree in Behavioral Neuroscience from [Queens College, the City University of New York](https://www.qc.cuny.edu/). In the process, I delved into research regarding the effects of genetic variations on eating and sensitivity to pharmacological agents in rodents. 
+
+Currently, I work as a college-level instructor of Psychology at [Queens College, the City University of New York](https://www.qc.cuny.edu/), instructing class bodies ranging from 25 - 89 students. Specifically, I have experience teaching Experimental Psychology, Social Behavior, and Statistics courses. I am also working toward earning a degree in data science from the [City University of New York's School of Professional Studies](https://sps.cuny.edu/) so I can transition into the fields of data analysis and machine learning. I intend to build computational models to help organizations make more efficient, data-driven decisions.
+
+I am interested in a variety of topics, including psychology, neuroscience, software development, and economics. I hope to express all of my interests throughout my professional journey, allowing me to contribute to society by creating innovative solutions and informed decision-making.
+
+## Education
+
+- **CUNY School of Professional Studies | New York, NY** 
+  - M.S. in Data Science | Aug 2023 - Expected: May 2025
+
+- **Queens College, CUNY | Queens, NY**
+  - M.A. in Behavioral Neuroscience | Aug 2020 - May 2022
+
+- **St. John's University | Queens, NY**
+  - B.A. in Psychology | Sept 2015 - May 2019
+

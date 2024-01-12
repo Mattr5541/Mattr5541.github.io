@@ -1,0 +1,28 @@
+---
+title: "My Research"
+---
+
+# Queens College
+
+## The Bodnar Laboratory
+
+From the years 2020 - 2022, I worked as a research associate for the Bodnar laboratory at Queens College, the City University of New York. This lab focuses on factors that influence sweet-taste preferences in both hybrid and inbred mice. 
+
+My work, specifically, aimed to examine the roles of mu opioid antagonists (naltrexone) and dopamine D1 agonists (SCH-23390) on sugar (sucrose) versus artificial sweet flavor (saccharin) preferences in inbred C57BL/6 (which are known to prefer sweet flavors) and 129P3 inbred mopuse strains (which are known to possess less of a sweet flavor preference), as well as hybrid offspring of these two strains (which we designated as B6:129F1 strains). 
+
+Our results indicated that the B6:129F1 hybrid mice possessed  sensitivities to mu opioid inhibition comparable to 129P3 strains, such that mu opioid inhibition noticeably restricted sucrose intake, but not saccharin intake. However, the B6:129F1 hybrid strains were noticeably more sensitive to dopamine D1 inhibition compared to both the C57BL/6 and 129P3 strains.
+
+Throughout my time in the Bodnar Laboratory, I finalized a Master's Thesis, published a manuscript, and co-authored two published manuscripts. Details pertaining to these manuscripts can be found in the Publications section of this website.
+
+
+# St. John's University
+
+## The Collaborative Health Integration Research (CHIRP) Program
+
+I partnered with the CHIRP program in the year 2018 and led a longitudinal project regarding the relationship between racial discrimination and ethnic racial identity (ERI) in emerging adult African American college students from both a between-subjects and within-subjects perspective.
+
+There were several missing subjects at the conclusion of the data collection periods. As a result, we used an FCS multiple imputation procedure to predict missing observations for variables when possible.  
+
+Following a mixed-models analysis, our results revealed that instances of discrimination predicted increases in ERI centrality (the importance of race and ethnicity to one's global sense of identity). However, these findings were only found between-subjects, but not within-subjects, suggesting that, within the analytic sample, ERI was not responsive to variations in discrimination; however, higher rates of discrimination were associated with higher levels of ERI centrality.
+
+In addition to this project, I also co-led a qualitative study examining a sample of American Indian participants' discriminatory experiences, as well as their responses and coping strategies to those experiences.

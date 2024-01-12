@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Matthew Roland"
+  navbar:
+    search: false
+    left:
+      - href: index.qmd
+        text: About Me
+      - href: Research.qmd
+        text: "My Research"
+      - href: Publications.qmd
+        text: "My Publications"
+    right:
+      - icon: linkedin
+        text: linkedin
+        href: https://www.linkedin.com/in/matthew-roland-b85a5a102/
+      - icon: github
+        text: github
+        href: https://github.com/Mattr5541/Matthew-Roland-Github-Repository
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
